@@ -1,0 +1,28 @@
+{ 
+"menu":[ 
+{ 
+"nombre":"Dona",
+"descripcion":"Es una dona con glaseado",
+"precio":20,
+"imagen":"img/donanormal.jpg"
+} 
+{ 
+"nombre":"Dona rellena",
+"descripcion":"Es una dona con glaseado y rellena de chocolate o mermelada",
+"precio":30,
+"imagen":"img/donarellena.jpg"
+}
+{ 
+"nombre":"Dona decorada",
+"descripcion":"Es una dona con glaseado y decorada a temporada",
+"precio":30,
+"imagen":"img/donadecorada.jpg"
+}
+{
+"nombre":"Dona rengoku",
+"descripcion":"Es una dona con glaseado y con una figura",
+"precio":300,
+"imagen":"img/donarengoku.jpg"
+}
+]
+}
