@@ -1,0 +1,42 @@
+
+body{
+	background-color: B3B3F1 ;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+titulo { 
+	font-family: 'Satisfy',cursive;
+font-size: 50px;
+align-content: center;
+ }
+ table{ 
+margin-left: 80px;
+  }
+ input:focus{ 
+outline: 4px solid pink
+  }
+
+  table{ 
+border-collapse: collapse;
+width: 100%;
+margin-bottom: 20%;
+   }
+   th , td{ 
+   	text-align: left;
+padding: 8px;
+    }
+th{ 
+background-color: 7692FF;
+color: black;
+ }
+ tr:nth-child(even){ 
+background-color:pink ;
+  }
+  img{ 
+width: 100px;
+height: 100px;
+   }

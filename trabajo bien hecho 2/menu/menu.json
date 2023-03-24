@@ -1,0 +1,86 @@
+{ 
+"menu":[ 
+{ 
+"nombre":"Dona",
+"descripcion":"Es una dona con glaseado",
+"precio":20,
+"imagen":"img/donanormal.jpg"
+} 
+{ 
+"nombre":"Dona rellena",
+"descripcion":"Es una dona con glaseado y rellena de chocolate o mermelada",
+"precio":30,
+"imagen":"img/donarellena.jpg"
+}
+{ 
+"nombre":"Dona decorada",
+"descripcion":"Es una dona con glaseado y decorada a temporada",
+"precio":30,
+"imagen":"img/donadecorada.jpg"
+}
+{
+"nombre":"Dona rengoku",
+"descripcion":"Es una dona con glaseado y con una figura",
+"precio":300,
+"imagen":"img/donarengoku.jpg"
+}
+{
+"nombre":"pastel",
+"descripcion":"Pastel decorado con betun , frutos y relleno de betun",
+"precio":290,
+"imagen":"img/pastel.jpg"
+}
+{
+"nombre":"pastel de chocolate",
+"descripcion":"Pastel decorado con betun , chocolate y relleno de betun de chocolate",
+"precio":390,
+"imagen":"img/pastelcho.jpg"
+} 
+],
+"Extras":[ 
+{ 
+"nombre":"mas chispas",
+"descripcion":"chispas y mas chispas , mira esa alta definicion",
+"precio":10,
+"imagen":"img/chispas.jpg"
+}
+{ 
+"nombre":"mas relleno de donas",
+"descripcion":"rellno extra de su freferencia",
+"precio":10,
+"imagen":"img/relleno.jpg"
+}
+{ 
+"nombre":"mas frutos rojos",
+"descripcion":"frutos rojos , fresa , frambuesa , moras",
+"precio":10,
+"imagen":"img/frutos.jpg"
+}
+{ 
+"nombre":"mas betun en el pastel",
+"descripcion":"betun",
+"precio":20,
+"imagen":"img/betun.jpg"
+}
+{ 
+"nombre":"mas chocolate",
+"descripcion":"mas chocolate de cubierta",
+"precio":20,
+"imagen":"img/cubierta.jpg"
+}
+{ 
+"nombre":"mas chocolate de relleno",
+"descripcion":"chocoltae de relleno",
+"precio":40,
+"imagen":"img/chocolatere.jpg"
+}
+],
+
+"Bebidas":[
+{ 
+"nombre":"Cafe Negro",
+"descripcion":"Cafe negro",
+"precio":40,
+"imagen":"img/chocolatere.jpg"
+}
+]
